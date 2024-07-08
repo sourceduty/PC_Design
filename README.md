@@ -48,6 +48,8 @@ Innovative features in custom PC cases enhance the building experience and usabi
 [PC Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-pc-build-plan)
 <br>
 [PC Game Radar](https://chat.openai.com/g/g-Er7chyOmE-pc-game-radar)
+<br>
+[Laptop Design](https://github.com/sourceduty/Laptop_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
