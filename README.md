@@ -32,7 +32,7 @@ Innovative features in custom PC cases enhance the building experience and usabi
 
 #
 
-![PC Cases](https://github.com/sourceduty/PC_Design/assets/123030236/542e3f55-06b5-455d-9423-77e233e5eee7)
+![PCs](https://github.com/sourceduty/PC_Design/assets/123030236/76cae170-fb99-4b83-9707-89a4b6522fed)
 
 #
 #### Related Links
