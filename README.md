@@ -51,5 +51,9 @@ Innovative features in custom PC cases enhance the building experience and usabi
 <br>
 [Laptop Design](https://github.com/sourceduty/Laptop_Design)
 
+#
+
+![PC](https://github.com/user-attachments/assets/0e7a5485-5347-41c6-9626-b1c9de1e78c7)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
