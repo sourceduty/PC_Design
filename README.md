@@ -1,4 +1,4 @@
-![PC](https://github.com/sourceduty/PC_Design/assets/123030236/f0cf7cbf-a2fd-45f2-bcce-99edd539f5d8)
+![PCs](https://github.com/user-attachments/assets/190533de-3905-4fbc-a242-33ca95baaa9a)
 
 > PC components, cases and design.
 
