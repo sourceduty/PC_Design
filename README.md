@@ -1,4 +1,4 @@
-![PCs](https://github.com/user-attachments/assets/190533de-3905-4fbc-a242-33ca95baaa9a)
+![PCs](https://github.com/user-attachments/assets/39329f70-0b5c-452f-b7eb-46a7068d3653)
 
 > PC components, cases and design.
 
