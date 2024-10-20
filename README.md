@@ -32,6 +32,8 @@ The materials and design features of custom PC cases significantly impact their 
 
 Innovative features in custom PC cases enhance the building experience and usability. Tool-less designs simplify the installation and upgrade process, allowing users to easily swap out components without the need for specialized tools. Integrated RGB lighting controls and fan controllers offer greater flexibility in customizing the appearance and performance of the system. Some cases also include sound-dampening materials to reduce noise, making them ideal for quieter environments. As the demand for personalized and high-performance PCs grows, custom PC cases continue to evolve, offering new designs and features that cater to a wide range of preferences and requirements.
 
+![PCs](https://github.com/sourceduty/PC_Design/assets/123030236/76cae170-fb99-4b83-9707-89a4b6522fed)
+
 #
 ### Impact of HDMI
 
@@ -42,10 +44,6 @@ This graph illustrates the impact of adding HDMI screens on both processing spee
 The power cost impact follows a similar pattern but shows a more pronounced difference between system types. High-end GPUs have a relatively low power cost impact of 30%, while integrated GPUs see a higher cost at 50%. Desktop systems maintain a relatively stable power cost impact of 40%, reflecting their ability to handle multiple screens with less strain on power. In contrast, laptops experience the highest increase in power cost, with an 80% impact, primarily due to their reliance on battery power and the added strain of managing multiple displays. This highlights how adding HDMI screens can be much more power-hungry on laptops than on desktop systems.
 
 ![HDMI Speed and Power Impact on Laptops and PCs](https://github.com/user-attachments/assets/1c14cf10-8d44-478c-a18c-04198b54eb9c)
-
-#
-
-![PCs](https://github.com/sourceduty/PC_Design/assets/123030236/76cae170-fb99-4b83-9707-89a4b6522fed)
 
 #
 #### Related Links
