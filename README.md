@@ -3,8 +3,7 @@
 > PC components, cases and design.
 
 #
-
-#### PC Design
+### PC Design
 
 PC design encompasses the aesthetic and functional aspects of creating personal computers. Modern PC design focuses not only on performance and efficiency but also on the visual appeal and user experience. Sleek, minimalist designs with clean lines and elegant finishes are popular among consumers, reflecting a shift towards devices that are as visually pleasing as they are powerful. Ergonomics also play a crucial role, ensuring that the design facilitates comfortable use, whether for gaming, professional work, or general computing tasks. The evolution of PC design is marked by the integration of advanced cooling solutions, RGB lighting, and modular components that allow for easy upgrades and customization.
 
@@ -13,7 +12,7 @@ Designers consider various factors when crafting a PC, including the target audi
 Innovative PC design also emphasizes sustainability and energy efficiency. Manufacturers are increasingly incorporating eco-friendly materials and practices into their designs, such as using recycled components and reducing power consumption. This shift is driven by both regulatory requirements and consumer demand for greener products. Additionally, the rise of compact and portable designs, like all-in-one PCs and mini PCs, reflects a trend towards space-saving solutions that do not compromise on performance. These advancements in PC design illustrate the industry's commitment to combining form and function to meet the evolving needs of users.
 
 #
-#### PC Parts and Assembling
+### PC Parts and Assembling
 
 Building a custom PC involves selecting and assembling various components to meet specific performance and aesthetic preferences. The central processing unit (CPU) is the brain of the computer, determining its overall speed and capability. Choosing a CPU involves balancing factors such as core count, clock speed, and compatibility with other components. Alongside the CPU, the graphics processing unit (GPU) is crucial for handling visual tasks, particularly in gaming and content creation. High-end GPUs provide better performance in rendering graphics and running demanding applications.
 
@@ -22,7 +21,7 @@ The motherboard serves as the backbone of the PC, connecting all the components 
 Storage options, such as solid-state drives (SSDs) and hard disk drives (HDDs), provide space for the operating system, applications, and files. SSDs are favored for their speed and reliability, though HDDs offer larger capacities at lower costs. Power supplies are vital to provide consistent and reliable power to all components, with wattage and efficiency ratings being key factors in their selection. Proper cooling solutions, including air and liquid cooling, are necessary to maintain optimal operating temperatures and ensure the longevity of the components. Once all parts are selected, assembling the PC involves carefully installing each component into the case, connecting power and data cables, and ensuring proper ventilation and cable management.
 
 #
-#### Custom PC Cases
+### Custom PC Cases
 
 ![Cyberdeck](https://github.com/user-attachments/assets/21027d8b-506b-481c-8f48-b6c7c7352a0a)
 
