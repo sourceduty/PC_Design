@@ -35,20 +35,6 @@ Innovative features in custom PC cases enhance the building experience and usabi
 ![PCs](https://github.com/sourceduty/PC_Design/assets/123030236/76cae170-fb99-4b83-9707-89a4b6522fed)
 
 #
-### Impact of HDMI
-
-![HDMI Screens](https://github.com/user-attachments/assets/9f929ff7-d7ab-4f53-95ae-b89fa6f7e1d0)
-![HDMI Speed and Power Impact on Laptops and PCs](https://github.com/user-attachments/assets/1c14cf10-8d44-478c-a18c-04198b54eb9c)
-
-This graph illustrates the impact of adding HDMI screens on both processing speed and power cost for different system types: high-end GPUs, integrated GPUs, desktop power, and laptop power. The processing speed impact is generally lower for high-end GPUs, with only a 20% reduction, indicating that these systems handle multiple screens efficiently. However, for integrated GPUs, the processing speed impact rises significantly to 60%, showing that less powerful GPUs struggle with the added demand. Desktop systems experience a smaller increase in power cost compared to laptops, with desktops showing only a 15% speed reduction and laptops showing a 70% impact on performance due to their limited power and thermal efficiency.
-
-The power cost impact follows a similar pattern but shows a more pronounced difference between system types. High-end GPUs have a relatively low power cost impact of 30%, while integrated GPUs see a higher cost at 50%. Desktop systems maintain a relatively stable power cost impact of 40%, reflecting their ability to handle multiple screens with less strain on power. In contrast, laptops experience the highest increase in power cost, with an 80% impact, primarily due to their reliance on battery power and the added strain of managing multiple displays. This highlights how adding HDMI screens can be much more power-hungry on laptops than on desktop systems.
-
-Adding 1-2 HDMI screens to most systems, especially those with dedicated GPUs, typically won't result in a noticeable power loss or performance drop for general tasks like browsing, document editing, or video playback. Desktops, in particular, are well-suited to handle 1-2 screens without strain, as they are designed for higher loads and are continuously powered. Even laptops can manage 1-2 external screens without a significant decrease in performance or battery life, assuming that the tasks being performed are not highly graphics-intensive.
-
-However, when adding more than 2 screens, the system can become overloaded, especially if the computer relies on an integrated GPU or has limited processing power. Most mid-range systems can comfortably handle 2-3 screens, but when pushing beyond that—such as 4 or more screens—the demand on the GPU, VRAM, and power supply increases substantially. This can result in slower processing, screen lag, and higher power consumption. The exact number of screens a system can manage depends on its hardware, but typically, 4 or more screens would be too many for most consumer-grade laptops or PCs without performance degradation.
-
-#
 ### Sourceduty Hardware
 
 ![Hardware](https://github.com/user-attachments/assets/5d57d0b9-261e-496c-8b46-98d4d7d17de8)
