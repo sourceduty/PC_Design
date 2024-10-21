@@ -54,7 +54,7 @@ Both the Acer Aspire 5 Slim Laptop, Samsung Galaxy Z-flip 4, Lenovo Thinkpad A48
 > Alex: "*Some old and outdated PCs like the SFF Dell OptiPlex are still very usable in 2024, 10 years after being released.*"
 
 #
-#### Related Links
+### Related Links
 
 [Dyson Bladeless PC](https://github.com/sourceduty/Dyson_Bladeless_PC)
 <br>
@@ -71,7 +71,6 @@ Both the Acer Aspire 5 Slim Laptop, Samsung Galaxy Z-flip 4, Lenovo Thinkpad A48
 [Laptop Design](https://github.com/sourceduty/Laptop_Design)
 
 #
-
 ![PC](https://github.com/user-attachments/assets/0e7a5485-5347-41c6-9626-b1c9de1e78c7)
 
 ***
