@@ -1,4 +1,4 @@
-![PCs](https://github.com/user-attachments/assets/7d686511-9d9f-4ff2-b753-50a56df5f251)
+![PC](https://github.com/user-attachments/assets/8bf0ff1d-7cd0-4e2c-bf85-c8f9591adcd7)
 
 > PC components, cases and design.
 
@@ -14,8 +14,6 @@ Innovative PC design also emphasizes sustainability and energy efficiency. Manuf
 
 #
 #### PC Parts and Assembling
-
-![PC](https://github.com/user-attachments/assets/8bf0ff1d-7cd0-4e2c-bf85-c8f9591adcd7)
 
 Building a custom PC involves selecting and assembling various components to meet specific performance and aesthetic preferences. The central processing unit (CPU) is the brain of the computer, determining its overall speed and capability. Choosing a CPU involves balancing factors such as core count, clock speed, and compatibility with other components. Alongside the CPU, the graphics processing unit (GPU) is crucial for handling visual tasks, particularly in gaming and content creation. High-end GPUs provide better performance in rendering graphics and running demanding applications.
 
