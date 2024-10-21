@@ -1,4 +1,4 @@
-![PC](https://github.com/user-attachments/assets/8bf0ff1d-7cd0-4e2c-bf85-c8f9591adcd7)
+![PCs](https://github.com/user-attachments/assets/7d686511-9d9f-4ff2-b753-50a56df5f251)
 
 > PC components, cases and design.
 
@@ -14,6 +14,8 @@ Innovative PC design also emphasizes sustainability and energy efficiency. Manuf
 
 #
 #### PC Parts and Assembling
+
+![PC](https://github.com/user-attachments/assets/8bf0ff1d-7cd0-4e2c-bf85-c8f9591adcd7)
 
 Building a custom PC involves selecting and assembling various components to meet specific performance and aesthetic preferences. The central processing unit (CPU) is the brain of the computer, determining its overall speed and capability. Choosing a CPU involves balancing factors such as core count, clock speed, and compatibility with other components. Alongside the CPU, the graphics processing unit (GPU) is crucial for handling visual tasks, particularly in gaming and content creation. High-end GPUs provide better performance in rendering graphics and running demanding applications.
 
@@ -47,6 +49,26 @@ The power cost impact follows a similar pattern but shows a more pronounced diff
 Adding 1-2 HDMI screens to most systems, especially those with dedicated GPUs, typically won't result in a noticeable power loss or performance drop for general tasks like browsing, document editing, or video playback. Desktops, in particular, are well-suited to handle 1-2 screens without strain, as they are designed for higher loads and are continuously powered. Even laptops can manage 1-2 external screens without a significant decrease in performance or battery life, assuming that the tasks being performed are not highly graphics-intensive.
 
 However, when adding more than 2 screens, the system can become overloaded, especially if the computer relies on an integrated GPU or has limited processing power. Most mid-range systems can comfortably handle 2-3 screens, but when pushing beyond that—such as 4 or more screens—the demand on the GPU, VRAM, and power supply increases substantially. This can result in slower processing, screen lag, and higher power consumption. The exact number of screens a system can manage depends on its hardware, but typically, 4 or more screens would be too many for most consumer-grade laptops or PCs without performance degradation.
+
+#
+### Sourceduty Hardware
+
+![Hardware](https://github.com/user-attachments/assets/5d57d0b9-261e-496c-8b46-98d4d7d17de8)
+
+The Dell OptiPlex 7020 SFF, released in 2014, is a compact desktop that fits well into Sourceduty's workflow. While not the most advanced machine, it offers reliability and a space-saving design for basic business operations. Powered by an Intel Core i5-14500 processor (14 cores, up to 5.0 GHz), integrated Intel UHD Graphics 770, and supporting up to 16GB of DDR5 RAM, it handles routine tasks efficiently. However, for Sourceduty’s more demanding work, such as high-end 3D modeling, digital art creation, or running AI inference models, the lack of a dedicated GPU and limited RAM may become a bottleneck. Additionally, due to its age, the system might face challenges with the compatibility and performance requirements of modern software, despite its upgradability.
+
+In contrast, the Dell G15 Laptop, released in 2021, better suits Sourceduty’s needs for high-performance computing. It features an Intel Core i5-10500H processor (6 cores, up to 4.5 GHz) and comes equipped with a dedicated NVIDIA GTX or RTX GPU, which makes it ideal for Sourceduty’s graphic design, 3D rendering, and video editing projects. With support for up to 16GB of DDR4 RAM, the G15 can handle complex tasks that the OptiPlex may struggle with. Its portable design and newer components make it a versatile tool for both in-office and on-the-go use, though it lacks the upgradability of a desktop like the OptiPlex, which could be limiting for Sourceduty as it scales its operations.
+
+- For CPU-based GGUF model inference and future expandability, the Dell OptiPlex 7020 SFF is a better option due to its higher core count and desktop upgradability.
+- For GPU-accelerated GGUF model inference, the Dell G15 Laptop is the better choice thanks to its dedicated NVIDIA GPU, which is critical for speeding up inference, especially for larger GGUF models.
+
+#### Laptops
+
+Both the Acer Aspire 5 Slim Laptop, Samsung Galaxy Z-flip 4, Lenovo Thinkpad A485, ASUS Vivobook 15 (2024), and the Dell Gaming Laptop G15 are examples of the diverse hardware Sourceduty may encounter or use for various tasks. The Acer Aspire 5 Slim provides a budget-friendly option with decent performance for basic productivity, while the Samsung Galaxy Z-flip 4 offers portability and versatility in a compact form factor, which could be useful for quick on-the-go tasks. The Lenovo Thinkpad A485, known for its durability and strong performance in business settings, could be a reliable choice for office productivity. The ASUS Vivobook 15 (2024) represents a more modern choice, ideal for both professional and creative work with its updated specs. Lastly, the Dell Gaming Laptop G15, highlighted in reviews like those by Marty McFly, provides the graphical power necessary for resource-intensive tasks, aligning well with Sourceduty’s creative workflows such as 3D rendering and AI-driven models.
+
+#
+
+> Alex: "*Some old and outdated PCs like the SFF Dell OptiPlex are still very usable in 2024, 10 years after being released.*"
 
 #
 #### Related Links
