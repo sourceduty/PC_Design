@@ -52,6 +52,8 @@ Both the Acer Aspire 5 Slim Laptop, Samsung Galaxy Z-flip 4, Lenovo Thinkpad A48
 
 > Alex: "*Some old and outdated PCs like the SFF Dell OptiPlex are still very usable in 2024, 10 years after being released.*"
 
+> "*I want to weld or rivet my own PC case together.*"
+
 #
 ### Related Links
 
