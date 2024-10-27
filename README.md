@@ -23,7 +23,7 @@ Storage options, such as solid-state drives (SSDs) and hard disk drives (HDDs), 
 #
 ### Custom PC Cases
 
-![Cyberdeck](https://github.com/user-attachments/assets/21027d8b-506b-481c-8f48-b6c7c7352a0a)
+![Round Circular Computer Concept Case](https://github.com/user-attachments/assets/80334a1d-a296-4dd7-bdd0-3b4e320ae150)
 
 Custom PC cases are designed to accommodate the specific needs and preferences of users, offering a range of sizes, styles, and features. These cases come in various form factors, including full-tower, mid-tower, and mini-ITX, each catering to different build sizes and component requirements. Full-tower cases provide ample space for extensive cooling solutions, multiple GPUs, and numerous storage drives, making them ideal for high-performance builds. Mid-tower cases strike a balance between size and expandability, fitting a wide range of components without occupying excessive desk space. Mini-ITX cases are compact, designed for small form factor builds that prioritize portability and space efficiency.
 
