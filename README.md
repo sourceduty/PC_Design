@@ -63,6 +63,9 @@ Sensor-based wearable computer mice, such as sensor rings and gloves, are innova
 Mouse automation involves the use of software tools and scripts to automate mouse movements, clicks, and other interactions, allowing tasks to be executed without direct manual control. This technology is widely applied to repetitive tasks, such as data entry, testing software, gaming, and process automation, where frequent or complex mouse actions are needed. By using predefined commands or algorithms, mouse automation software can mimic human actions, improving efficiency and reducing the potential for human error. Advanced automation tools can record user actions, create loops, and set conditions, enabling users to build complex sequences and workflows tailored to their needs. This level of automation not only speeds up tasks but also enables businesses to maintain consistent productivity, especially in scenarios requiring high precision and repeatability.
 
 #
+![PCs](https://github.com/user-attachments/assets/287b528c-6bf1-43af-9767-7f55e379cfa3)
+
+#
 
 > Alex: "*Some old and outdated PCs like the SFF Dell OptiPlex are still very usable in 2024, 10 years after being released.*"
 
