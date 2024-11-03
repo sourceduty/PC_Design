@@ -68,6 +68,8 @@ Mouse automation involves the use of software tools and scripts to automate mous
 
 > "*I want to weld or rivet my own PC case together.*"
 
+> "*Use smaller wearable devices for mouse automation.*"
+
 #
 ### Related Links
 
