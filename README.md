@@ -33,6 +33,15 @@ Innovative features in custom PC cases enhance the building experience and usabi
 ![PCs](https://github.com/sourceduty/PC_Design/assets/123030236/76cae170-fb99-4b83-9707-89a4b6522fed)
 
 #
+### Used PCs
+
+![Used PCs](https://github.com/user-attachments/assets/c713cc58-9bf5-410a-b27e-5621ff057d8f)
+
+When purchasing a used gaming PC, it’s essential to carefully inspect the main hardware components for performance and longevity. Start by checking the processor (CPU) model and generation, as an outdated one may struggle with newer, demanding games. Ensure the graphics card (GPU) is in good condition by looking for any signs of overheating, fan issues, or physical damage; also confirm whether it’s been used for mining or overclocking, as this can impact its lifespan. The motherboard should be compatible with future upgrades and free from any visible damage or broken ports. Equally important is the RAM; gaming performance typically benefits from 16GB or more of fast RAM, so check for stability and quality here as well. Storage should ideally be a solid-state drive (SSD) for faster loading times, and it’s wise to check the remaining health if possible, especially if the SSD has been heavily used.
+
+Cooling, power, and case condition also play a major role in a gaming PC’s long-term stability. Inspect the cooling system for dust or residue, as clogged fans or fins can cause overheating issues. A liquid cooling system should be checked for leaks, while air-cooled systems should have adequate ventilation. The power supply unit (PSU) is another critical area; it should have a suitable wattage and be from a reliable brand, as low-quality PSUs can lead to crashes or hardware failures. Lastly, make sure the PC case is in good condition with no broken connectors or damage that could impact airflow. It’s also worth checking if the operating system is licensed and free of unnecessary programs, as this can affect performance. Running benchmarks and stability tests, if possible, will help you assess the system’s reliability before committing to the purchase.
+
+#
 ### Sourceduty Hardware
 
 ![Hardware](https://github.com/user-attachments/assets/5d57d0b9-261e-496c-8b46-98d4d7d17de8)
