@@ -1,4 +1,5 @@
 ![Fish PC Case](https://github.com/user-attachments/assets/01a6d42c-f76b-416b-8120-567ba510b9c1)
+![Computers](https://github.com/user-attachments/assets/04633623-0f48-4581-851a-ab0b27335be8)
 
 > PC components, cases and design.
 
