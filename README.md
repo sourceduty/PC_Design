@@ -75,6 +75,8 @@ Mouse automation involves the use of software tools and scripts to automate mous
 ![PCs](https://github.com/user-attachments/assets/287b528c-6bf1-43af-9767-7f55e379cfa3)
 #
 ![PC](https://github.com/user-attachments/assets/c40ac351-9de8-4a63-9af5-2a25a710151c)
+#
+![PCs](https://github.com/user-attachments/assets/c912cbd5-907b-4927-ac14-8b08468c423a)
 
 #
 
