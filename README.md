@@ -46,6 +46,7 @@ Cooling, power, and case condition also play a major role in a gaming PC’s lon
 ### Sourceduty Hardware
 
 ![Hardware](https://github.com/user-attachments/assets/5d57d0b9-261e-496c-8b46-98d4d7d17de8)
+![Spilled](https://github.com/user-attachments/assets/52b4066c-dc0a-43c1-a979-d89376b62a83)
 
 - Sourceduty paid $60 CAD for the Dell OptiPlex 7020 SFF in 2023.
 - Sourceduty paid for and lost $750 when Alex spilled his tea on the Acer Aspire 5 Slim Laptop (2019) in 2023.
@@ -54,8 +55,6 @@ Cooling, power, and case condition also play a major role in a gaming PC’s lon
 - Sourceduty also owns a Lenovo Thinkpad A485 (2018).
 - Sourceduty also owns an ASUS Vivobook 15 (2024).
 - Sourceduty also owns a LulzBot 747 Sidekick 3D Printer (2022).
-
-![Spilled](https://github.com/user-attachments/assets/52b4066c-dc0a-43c1-a979-d89376b62a83)
 
 Both the Acer Aspire 5 Slim Laptop, Samsung Galaxy Z-flip 4, Lenovo Thinkpad A485, ASUS Vivobook 15 (2024), and the Dell Gaming Laptop G15 are examples of the diverse hardware Sourceduty may encounter or use for various tasks. The Acer Aspire 5 Slim provides a budget-friendly option with decent performance for basic productivity, while the Samsung Galaxy Z-flip 4 offers portability and versatility in a compact form factor, which could be useful for quick on-the-go tasks. The Lenovo Thinkpad A485, known for its durability and strong performance in business settings, could be a reliable choice for office productivity. The ASUS Vivobook 15 (2024) represents a more modern choice, ideal for both professional and creative work with its updated specs. Lastly, the Dell Gaming Laptop G15, highlighted in reviews like those by Marty McFly, provides the graphical power necessary for resource-intensive tasks, aligning well with Sourceduty’s creative workflows such as 3D rendering and AI-driven models.
 
