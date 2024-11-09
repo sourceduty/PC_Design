@@ -49,7 +49,7 @@ Cooling, power, and case condition also play a major role in a gaming PC’s lon
 ![Spilled](https://github.com/user-attachments/assets/52b4066c-dc0a-43c1-a979-d89376b62a83)
 
 ```
-- Sourceduty paid $60 CAD for the Dell OptiPlex 7020 SFF in 2023.
+- Sourceduty paid $60 CAD for the Dell OptiPlex 7020 SFF (2014) in 2023.
 - Sourceduty paid for and lost $750 when Alex spilled his tea on the Acer Aspire 5 Slim Laptop (2019) in 2023.
 - Sourceduty paid $750 CAD for the Dell G15 Laptop (2022).
 - Alex's personal phone is a Samsung Galaxy Z-flip 4 (2022).
