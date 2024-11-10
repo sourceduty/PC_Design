@@ -12,6 +12,11 @@ Designers consider various factors when crafting a PC, including the target audi
 Innovative PC design also emphasizes sustainability and energy efficiency. Manufacturers are increasingly incorporating eco-friendly materials and practices into their designs, such as using recycled components and reducing power consumption. This shift is driven by both regulatory requirements and consumer demand for greener products. Additionally, the rise of compact and portable designs, like all-in-one PCs and mini PCs, reflects a trend towards space-saving solutions that do not compromise on performance. These advancements in PC design illustrate the industry's commitment to combining form and function to meet the evolving needs of users.
 
 #
+### Computer Machines
+
+The term "machine" is rarely used to describe computer hardware in everyday language, as the word traditionally evokes images of purely mechanical devices like gears, engines, and tools. While technically correct—since a computer is a device performing tasks via energy conversion—the association of "machine" with physical, mechanical systems makes it an uncommon descriptor for computers. However, in specialized contexts like computing, the term gains prominence, such as with "virtual machine" (VM). A virtual machine refers to software that emulates a physical computer, enabling multiple "machines" to operate independently on a single physical device. This terminology highlights the abstraction of computational resources as "machines," even though the concept is far removed from traditional mechanics. Overall, "computer" and "device" dominate in popularity for describing hardware in common usage, with "machine" being reserved for niche or technical discussions.
+
+#
 ### PC Parts and Assembling
 
 Building a custom PC involves selecting and assembling various components to meet specific performance and aesthetic preferences. The central processing unit (CPU) is the brain of the computer, determining its overall speed and capability. Choosing a CPU involves balancing factors such as core count, clock speed, and compatibility with other components. Alongside the CPU, the graphics processing unit (GPU) is crucial for handling visual tasks, particularly in gaming and content creation. High-end GPUs provide better performance in rendering graphics and running demanding applications.
@@ -19,6 +24,15 @@ Building a custom PC involves selecting and assembling various components to mee
 The motherboard serves as the backbone of the PC, connecting all the components and ensuring they communicate effectively. It houses the CPU, memory, and expansion slots for additional cards like the GPU and sound card. When selecting a motherboard, considerations include form factor, chipset, and the number of expansion slots. Memory, or RAM, is another critical component that impacts the system's multitasking capabilities. Higher capacity and faster RAM can significantly enhance performance, especially when running multiple applications simultaneously.
 
 Storage options, such as solid-state drives (SSDs) and hard disk drives (HDDs), provide space for the operating system, applications, and files. SSDs are favored for their speed and reliability, though HDDs offer larger capacities at lower costs. Power supplies are vital to provide consistent and reliable power to all components, with wattage and efficiency ratings being key factors in their selection. Proper cooling solutions, including air and liquid cooling, are necessary to maintain optimal operating temperatures and ensure the longevity of the components. Once all parts are selected, assembling the PC involves carefully installing each component into the case, connecting power and data cables, and ensuring proper ventilation and cable management.
+
+#
+### Fan Motor Lifespan
+
+![Computer Fan](https://github.com/user-attachments/assets/5ae1a82a-580a-4436-b4cd-488871d225bb)
+
+The mechanical lifespan of computer fans is a critical factor in determining their overall reliability and performance in cooling systems. These fans typically operate using brushless DC motors, which reduce wear and tear compared to brushed motors. High-quality 12V fans often have a lifespan ranging between 30,000 to 100,000 hours, depending on factors like bearing type, operating conditions, and build quality. Ball bearings generally offer longer lifespans than sleeve bearings due to better durability under high temperatures and continuous operation. However, sleeve bearings can perform adequately in low-stress environments and are more cost-effective, albeit with a shorter expected lifespan.
+
+Environmental conditions play a significant role in the longevity of these fans. Dust accumulation, high humidity, and extreme operating temperatures can significantly reduce their effective lifespan by increasing friction and mechanical resistance. Regular maintenance, such as cleaning and ensuring proper ventilation, can mitigate these issues. Additionally, advancements in fan technology, like magnetic levitation (maglev) bearings or fluid dynamic bearings (FDB), have further improved reliability and reduced noise levels. These modern designs can extend lifespans beyond traditional models, making them suitable for demanding applications like server cooling or high-performance gaming systems.
 
 #
 ### Custom PC Cases
