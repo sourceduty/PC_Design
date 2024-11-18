@@ -26,6 +26,15 @@ The motherboard serves as the backbone of the PC, connecting all the components 
 Storage options, such as solid-state drives (SSDs) and hard disk drives (HDDs), provide space for the operating system, applications, and files. SSDs are favored for their speed and reliability, though HDDs offer larger capacities at lower costs. Power supplies are vital to provide consistent and reliable power to all components, with wattage and efficiency ratings being key factors in their selection. Proper cooling solutions, including air and liquid cooling, are necessary to maintain optimal operating temperatures and ensure the longevity of the components. Once all parts are selected, assembling the PC involves carefully installing each component into the case, connecting power and data cables, and ensuring proper ventilation and cable management.
 
 #
+### Prison Computers
+
+![Prison Electronics](https://github.com/user-attachments/assets/7d47d2bd-a17c-4d22-9527-3fa1a9e17d16)
+
+The use of clear plastic enclosures and housings in prison technology has sparked a wave of speculative discussion, though much of it is unfounded. Rumors suggest that prisons are implementing transparent devices for security reasons, enabling guards and staff to easily monitor inmates' interactions with technology. Allegedly, this approach involves enclosing devices such as tablets, kiosks, and communication hubs in clear, tamper-resistant casings, which would prevent the concealment of contraband or unauthorized alterations. Proponents of this idea argue that it could enhance transparency and accountability, aligning with efforts to modernize correctional facilities while maintaining a high standard of safety.
+
+Despite the intrigue, there is no verified evidence that such practices are being widely adopted or even considered as standard in correctional systems. The rumor seems to have originated from speculative discussions about the future of prison technology and its integration with evolving security measures. While the concept of transparent enclosures could have some theoretical benefits, experts have highlighted practical challenges, such as the cost of custom manufacturing and potential durability issues. For now, it remains an imaginative notion rather than a real-world innovation.
+
+#
 ### DB-9 (RS-232) Serial COM Ports
 
 ![DB-9 (RS-232)](https://github.com/user-attachments/assets/9ab34b0b-2f5a-437a-8127-9edc8bd95c44)
