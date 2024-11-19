@@ -34,6 +34,8 @@ The use of clear plastic enclosures and housings in prison technology has sparke
 
 Despite the intrigue, there is no verified evidence that such practices are being widely adopted or even considered as standard in correctional systems. The rumor seems to have originated from speculative discussions about the future of prison technology and its integration with evolving security measures. While the concept of transparent enclosures could have some theoretical benefits, experts have highlighted practical challenges, such as the cost of custom manufacturing and potential durability issues. For now, it remains an imaginative notion rather than a real-world innovation.
 
+![Prison Tech](https://github.com/user-attachments/assets/6c2aff00-b6b8-41b6-a32b-cea625e972f2)
+
 #
 ### DB-9 (RS-232) Serial COM Ports
 
