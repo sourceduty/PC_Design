@@ -139,6 +139,10 @@ Mouse automation involves the use of software tools and scripts to automate mous
 [PC Game Radar](https://chat.openai.com/g/g-Er7chyOmE-pc-game-radar)
 <br>
 [Laptop Design](https://github.com/sourceduty/Laptop_Design)
+<br>
+[Computer Upgrade](https://github.com/sourceduty/Computer_Upgrade)
+<br>
+[Gas-Cooled Compuer](https://github.com/sourceduty/Gas-Cooled_Computer)
 
 #
 ![PC](https://github.com/user-attachments/assets/0e7a5485-5347-41c6-9626-b1c9de1e78c7)
