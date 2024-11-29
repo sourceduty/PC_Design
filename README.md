@@ -156,6 +156,8 @@ Mouse automation involves the use of software tools and scripts to automate mous
 [Gas-Cooled Compuer](https://github.com/sourceduty/Gas-Cooled_Computer)
 <br>
 [Rugged Storage Boxes](https://github.com/sourceduty/Rugged_Storage_Boxes)
+<br>
+[Gaming](https://github.com/sourceduty/Gaming)
 
 #
 ![PC](https://github.com/user-attachments/assets/0e7a5485-5347-41c6-9626-b1c9de1e78c7)
