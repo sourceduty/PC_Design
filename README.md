@@ -14,7 +14,7 @@ Innovative PC design also emphasizes sustainability and energy efficiency. Manuf
 #
 ### Early TV and Video Games
 
-![Early TV](https://github.com/user-attachments/assets/69b64772-a61e-4591-b885-bf5d4b790fe0)
+![Early TV](https://github.com/user-attachments/assets/20f8254d-a3f6-402b-b011-de0836a3492c)
 
 Inspired by the success of teleprompters and video games in the 1960's, researchers began exploring ways to incorporate similar concepts into computer systems. The idea was to provide users with a visual display that could guide them through tasks and present information clearly without requiring constant interaction with physical keyboards or punch cards. This led to the development of graphical user interfaces (GUIs) in the 1970s, which featured windows, icons, menus, and pointers—elements borrowed from teleprompter technology. GUIs made computers more accessible to a wider audience by providing an intuitive visual representation of data and commands.
 
