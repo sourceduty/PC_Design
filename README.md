@@ -30,6 +30,8 @@ The term "machine" is rarely used to describe computer hardware in everyday lang
 #
 ### PC Parts and Assembling
 
+![Desk](https://github.com/user-attachments/assets/30f44223-f2c8-4db0-8ad8-09515a0b689c)
+
 Building a custom PC involves selecting and assembling various components to meet specific performance and aesthetic preferences. The central processing unit (CPU) is the brain of the computer, determining its overall speed and capability. Choosing a CPU involves balancing factors such as core count, clock speed, and compatibility with other components. Alongside the CPU, the graphics processing unit (GPU) is crucial for handling visual tasks, particularly in gaming and content creation. High-end GPUs provide better performance in rendering graphics and running demanding applications.
 
 The motherboard serves as the backbone of the PC, connecting all the components and ensuring they communicate effectively. It houses the CPU, memory, and expansion slots for additional cards like the GPU and sound card. When selecting a motherboard, considerations include form factor, chipset, and the number of expansion slots. Memory, or RAM, is another critical component that impacts the system's multitasking capabilities. Higher capacity and faster RAM can significantly enhance performance, especially when running multiple applications simultaneously.
