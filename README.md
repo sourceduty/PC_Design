@@ -25,7 +25,7 @@ Early video games sparked interest in artificial intelligence (AI) research with
 #
 ### Historic Inspiration
 
-![Burned](https://github.com/user-attachments/assets/0c5fa633-1380-4d63-a33c-23bd628496d3)
+![CD](https://github.com/user-attachments/assets/b1999cae-2aee-4e10-b4a3-28bb27f77ff8)
 
 In the early days of computing, terminology reflected the technological and cultural context of the time, often using analogies drawn from hierarchical systems or physical processes. The term "slave," for example, was commonly used to denote a secondary drive in a master-slave configuration. This setup dictated that one drive (the "master") controlled the data flow, while the secondary drive (the "slave") followed commands from the master. This terminology was common in IDE (Integrated Drive Electronics) interfaces, where jumpers on hard drives and optical drives had to be manually configured to indicate their role. Over time, the term fell out of favor due to its connotations, and more neutral terms like "primary" and "secondary" are now used.
 
