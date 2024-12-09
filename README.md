@@ -95,6 +95,17 @@ Innovative features in custom PC cases enhance the building experience and usabi
 ![PCs](https://github.com/sourceduty/PC_Design/assets/123030236/76cae170-fb99-4b83-9707-89a4b6522fed)
 
 #
+### Keyboards
+
+![Keyboards](https://github.com/user-attachments/assets/684db956-77d8-4587-b01e-a054e6b7a0f9)
+
+Keyboards are essential input devices in modern computing, offering various designs to suit user needs, from ergonomic layouts to compact, travel-friendly models. Traditional mechanical keyboards are prized for their tactile feedback and durability, while membrane keyboards are valued for their quieter operation and cost-effectiveness. Innovations in keyboard technology, such as backlit keys and customizable layouts, have enhanced functionality and accessibility. These advancements cater to gamers, professionals, and casual users, ensuring an optimized typing experience for diverse preferences.
+
+Medical keyboards are specifically designed to meet the stringent hygiene requirements of healthcare environments. Unlike standard keyboards, they are built to resist the accumulation of dirt and bacteria. These keyboards often feature flat, sealed surfaces, making them easy to wipe down with disinfectants. Many are waterproof or spill-resistant, ensuring they remain functional even after rigorous cleaning. Their design reduces the risk of cross-contamination, making them ideal for use in hospitals, clinics, and laboratories, where maintaining a sterile environment is crucial.
+
+![Keyboard](https://github.com/user-attachments/assets/951949a2-d566-445a-934b-0728928f5c04)
+
+#
 ### Used PCs
 
 ![Used PCs](https://github.com/user-attachments/assets/c713cc58-9bf5-410a-b27e-5621ff057d8f)
