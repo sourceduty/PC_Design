@@ -83,6 +83,7 @@ Environmental conditions play a significant role in the longevity of these fans.
 #
 ### Custom PC Cases
 
+![House Computer Case](https://github.com/user-attachments/assets/284622f9-0fb5-4888-b7ef-fc8cd62d6c1d)
 ![Cases](https://github.com/user-attachments/assets/08ed5c21-07c4-443e-b00e-653b71db7344)
 
 Custom PC cases are designed to accommodate the specific needs and preferences of users, offering a range of sizes, styles, and features. These cases come in various form factors, including full-tower, mid-tower, and mini-ITX, each catering to different build sizes and component requirements. Full-tower cases provide ample space for extensive cooling solutions, multiple GPUs, and numerous storage drives, making them ideal for high-performance builds. Mid-tower cases strike a balance between size and expandability, fitting a wide range of components without occupying excessive desk space. Mini-ITX cases are compact, designed for small form factor builds that prioritize portability and space efficiency.
